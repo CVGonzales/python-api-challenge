@@ -1,0 +1,13 @@
+Week 6: python-api-challenge Data Analysis
+
+For Part 1, you must include a written description of three observable trends based on the data.
+
+1. According to the Latitude vs Temperature graph, we can see that cities with a latitude close to 0 have the highest temperature.
+As the latitude increases or decreases, the temperature drops. 
+This makes sense because countries directly on the equator experience direct overhead sun everyday.
+
+2. According to the Latitude vs Wind Speed graph, we can see that the data is widely spread across the Latitude.
+We can say that most cities, generally do not experience strong winds with only a few cities, experiencing wind speeds of more than 10 m/s.
+
+3. According to the Latitude vs Cloudiness graph, we can see that the data is greatly wide spread across the Latitude.
+We can say that there is no true correlation between cloudiness and city location.
